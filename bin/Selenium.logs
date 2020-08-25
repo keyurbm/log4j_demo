@@ -1,10 +1,10 @@
-23:22:39,043 DEBUG devpinoyLogger<strong>{1}</strong>:20 - opening webiste
-23:22:39,071 DEBUG devpinoyLogger<strong>{1}</strong>:22 - entring weight
-23:22:42,735 DEBUG devpinoyLogger<strong>{1}</strong>:24 - selecting kilograms
-23:22:43,173 DEBUG devpinoyLogger<strong>{1}</strong>:26 - selecting height in feet
-23:22:43,328 DEBUG devpinoyLogger<strong>{1}</strong>:28 - selecting height in inchs
-23:22:43,504 DEBUG devpinoyLogger<strong>{1}</strong>:30 - Clicking on calculate
-23:22:43,686 DEBUG devpinoyLogger<strong>{1}</strong>:33 - Getting SIUnit value
-23:22:43,820 DEBUG devpinoyLogger<strong>{1}</strong>:35 - Getting USUnit value
-23:22:43,891 DEBUG devpinoyLogger<strong>{1}</strong>:37 - Getting UKUnit value
-23:22:43,947 DEBUG devpinoyLogger<strong>{1}</strong>:39 - Getting overall description
+25/08/2020 20:22:27 DEBUG devpinoyLogger<strong>{1}</strong>:22 - opening webiste
+25/08/2020 20:22:27 DEBUG devpinoyLogger<strong>{1}</strong>:24 - entring weight
+25/08/2020 20:22:27 DEBUG devpinoyLogger<strong>{1}</strong>:26 - selecting kilograms
+25/08/2020 20:22:27 DEBUG devpinoyLogger<strong>{1}</strong>:28 - selecting height in feet
+25/08/2020 20:22:27 DEBUG devpinoyLogger<strong>{1}</strong>:30 - selecting height in inchs
+25/08/2020 20:22:27 DEBUG devpinoyLogger<strong>{1}</strong>:32 - Clicking on calculate
+25/08/2020 20:22:27 DEBUG devpinoyLogger<strong>{1}</strong>:35 - Getting SIUnit value
+25/08/2020 20:22:27 DEBUG devpinoyLogger<strong>{1}</strong>:37 - Getting USUnit value
+25/08/2020 20:22:27 DEBUG devpinoyLogger<strong>{1}</strong>:39 - Getting UKUnit value
+25/08/2020 20:22:27 DEBUG devpinoyLogger<strong>{1}</strong>:41 - Getting overall description

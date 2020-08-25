@@ -14,7 +14,7 @@ public class LoggingDemo {
 	public static void main(String[] args) {
 		WebDriver driver;
 		
-		 System.setProperty("webdriver.chrome.driver", "E://MyWork//Automation//log4j_demo//Drivers//chromedriver.exe"); 
+		 System.setProperty("webdriver.chrome.driver", "D://EclipseWorkSpace//log4j_demo//Drivers//chromedriver.exe"); 
 		 driver = new ChromeDriver();
          Logger log = Logger.getLogger("devpinoyLogger");
          
